@@ -4,6 +4,8 @@
 
 A node is a program that stores a cryptocurrency's blockchain and verifies transactions against its copy of the blockchain. A node will connect with other nodes to create a network. This network will then act like a large, democratized, node.
 
+![Diagram of Mesh Network](https://upload.wikimedia.org/wikipedia/commons/9/97/NetworkTopology-Mesh.svg)
+
 #### How do nodes transfer information?
 
 A node will attempt to connect to other nodes through TCP/IP port 8333. The node will then search a DNS server for any compatible node listed on the DNS server (this can also be manually set.)
