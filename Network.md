@@ -47,4 +47,4 @@ Nodes create a node mesh, and this node mesh is a network of cooperating machine
   - Cheap
     - Since the costs are spread to every user in cryptocurrency that runs a node, fees are cheap, if not free
     
-[Next we will cover blockchain technology in cryptocurrency](https://github.com/Dadadah/CryptoNotes/blob/master/Blockchain.md)
+[Next we will simulate nodes](https://github.com/Dadadah/CryptoNotes/blob/master/Activity.md)
