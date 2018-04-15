@@ -36,4 +36,4 @@ Why was cryptocurrency created?
   
   - To be a currency with limitless scalability
   
-[Next we will cover networking](https://github.com/Dadadah/CryptoNotes/blob/master/Network.md)
+[Next we will cover cryptocurrency networks](https://github.com/Dadadah/CryptoNotes/blob/master/Network.md)
